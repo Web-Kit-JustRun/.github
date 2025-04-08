@@ -37,5 +37,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/07vmgaXpVkM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > **참고**: 일부 환경에서는 GitHub의 README.md 내에서 iframe이 직접 재생되지 않을 수 있습니다. 이 경우, 아래 링크를 통해 영상을 시청해 주세요:  
-> [프로젝트 데모 영상 보러가기](https://www.youtube.com/watch?v=07vmgaXpVkM)
+[![Demo Video](https://img.youtube.com/vi/07vmgaXpVkM/0.jpg)](https://www.youtube.com/watch?v=07vmgaXpVkM)
+
 
